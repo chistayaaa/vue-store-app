@@ -1,4 +1,24 @@
-# vue-store-app
+# vue
 
-Реализованный магазин электроники на Vue.js: фильтрация, пагинация, оформление заказа, работа с store.
-Доступен для просмотра на https://chistayaaa.github.io/vue-store-app/#/ 
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
